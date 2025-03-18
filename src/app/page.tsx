@@ -1,6 +1,6 @@
 'use client'
 
-import { Button, Checkbox, TextField } from "ui";
+import { Button, Checkbox, TextField } from "@/components/ui";
 import { IconPlus, IconTrash } from "justd-icons";
 import React, { useEffect, useState } from "react";
 import { Task } from "@/types/task";
